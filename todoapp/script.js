@@ -48,3 +48,27 @@ input.addEventListener("keydown", (event)=>{
 button.addEventListener("click", ()=>{
   addItem(input.value);
 });
+
+const loadBtn = document.querySelector("#loadBtn");
+
+
+async function getTodo() {
+  const response = await fetch("https://jsonplaceholder.typicode.com/todos");
+  if(!response.ok){
+    throw new Error("HTTP error" + response.status);
+  }
+  return await response.json();
+}
+
+
+loadBtn.addEventListener("click", async ()=>{
+  try{
+    const data = await getTodo();
+    data.forEach(element => {
+      addItem(element.title);
+    });
+    
+  } catch(err){
+    console.error(err);
+  }
+});
