@@ -72,3 +72,23 @@ loadBtn.addEventListener("click", async ()=>{
     console.error(err);
   }
 });
+
+
+
+const numberInput = document.querySelector("#numberInput");
+const result = document.querySelector("#result");
+
+numberInput.addEventListener("keydown", async (event)=>{
+  if(event.key == "Enter"){
+    const id = numberInput.value;
+    const url = "https://jsonplaceholder.typicode.com/todos/" + String(id);
+    const response = await fetch(url);
+    const data = await response.json();
+    addItem(data.title);
+    result.innerHTML = `
+      <h2> ${data.title} </h2>
+      <p> Completed: ${data.completed} </p>
+    `;
+
+  }
+});
