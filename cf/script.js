@@ -5,28 +5,38 @@ const details = document.querySelector("#details");
 
 let info;
 
-function addDetails(){
-  details.innerHTML = "";
-  const rating = document.createElement("span");
-  rating.innerHTML = `
-    <span>Rating ${info.rating} </span>
+function createDetails(lebel, value){
+  const el = document.createElement("div");
+  el.classList.add("detail");
+  el.textContent = `
+    ${lebel} : ${value}
   `;
-  details.appendChild(rating);
-  
-  const maxRating = document.createElement("span");
-  maxRating.innerHTML = `
-  <span>Max Rating ${info.maxRating} </span>
-  `;
-  details.appendChild(maxRating);
+  return el;
+}
 
+function addDetails() {
+  details.innerHTML = "";
+  profile.innerHTML = "";
+
+  const avatar = document.createElement("img");
+
+  avatar.src = info.avatar;
+  avatar.alt = `${info.handle}'s avatar`;
+
+  profile.appendChild(avatar);
+
+  details.appendChild(createDetails("Handle", info.handle));
+  details.appendChild(createDetails("Rating", info.rating));
+  details.appendChild(createDetails("Max Rating", info.maxRating));
+  details.appendChild(createDetails("Rank", info.rank));
+  details.appendChild(createDetails("Max Rank", info.maxRank));
+  details.appendChild(createDetails("Contribution", info.contribution));
+  details.appendChild(createDetails("Friends", info.friendOfCount));
 }
 
 async function loadDetails(){
   let handle = input.value.trim();
   if(handle === "")return;
-  
-  // console.log(handle);
-  // handle = "tourist";
 
   try{
     const url = "https://codeforces.com/api/user.info?handles=" + handle;

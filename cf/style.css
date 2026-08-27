@@ -1,0 +1,17 @@
+#profile img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+#details {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.detail {
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
