@@ -23,10 +23,10 @@ function addDetails(){
 
 async function loadDetails(){
   let handle = input.value.trim();
-  // if(handle === "")return;
+  if(handle === "")return;
   
-  console.log(handle);
-  handle = "tourist";
+  // console.log(handle);
+  // handle = "tourist";
 
   try{
     const url = "https://codeforces.com/api/user.info?handles=" + handle;
