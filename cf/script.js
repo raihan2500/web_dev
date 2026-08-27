@@ -68,3 +68,4 @@ show.addEventListener("click", ()=>{
   console.log(info);
 
 });
+
