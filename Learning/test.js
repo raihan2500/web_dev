@@ -43,3 +43,32 @@ export function sum(...numbers){
 
 console.log("Sum: " + sum(1, 5, 10, 15)); //here we didn't pass array but sum() inputs like array for ... this syntax. It's called rest.
 
+
+function greet(name){
+  console.log("Hello " + name);
+}
+
+function sayHello(callback, hello){
+  callback("Raihan");
+  hello("Jig");
+}
+
+sayHello(greet, greet);
+
+const numbers = [1, 2, 3, 4, 5];
+const doubled = numbers.map(x=>x*2);
+
+console.log(doubled);
+
+const even = numbers.filter(x=>x%2 == 0);
+console.log(even);
+
+
+const uf = numbers.find(u=> u == 0);
+console.log(uf);
+
+const someFulfil = numbers.some(x => x %2 == 0);
+console.log(someFulfil);
+
+const everyFulfil = numbers.every(x=>x %2 == 0);
+console.log(everyFulfil);n
