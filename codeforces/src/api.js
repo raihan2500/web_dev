@@ -1,5 +1,6 @@
 
 export async function getUser(handle){
+  if(handle === "")return null;
   try{
     const url = "https://codeforces.com/api/user.info?handles=" + handle;
     const res = await fetch(url);

@@ -1,14 +1,23 @@
-
+import { useRef } from "react";
 function SearchBar(props) {
+  const userInputRef = useRef();
+  function search(){
+    const value = userInputRef.current.value;
+    props.setHandle(value);
+  }
   
   return (
     <div>
       <input 
+        ref={userInputRef}
         type="text" placeholder='Enter the username' 
-        onChange={(event)=>props.setHandle(event.target.value)}
-        onKeyDown={(event)=>{if(event.key == "Enter"){props.searchHandle();}}}
+        onKeyDown={(event)=>{
+          if(event.key === "Enter"){
+            search();
+          }
+        }}
      />
-      <button onClick={()=> props.searchHandle()} >Search</button>
+      <button onClick={search} >Search</button>
     </div>
   )
 }
