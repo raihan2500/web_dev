@@ -1,12 +1,20 @@
 import React from 'react'
 
 function Profile(props) {
-  const handle = props.handle;
+  if(props.user == null){
+    return <p>No user loaded</p>;
+  }
+  const user = props.user;
+  const {handle, rating, maxRating, firstName, rank, maxRank} = user;
+
   return (
     <section>
-      {/* <p>No user loaded</p> */}
-      {/* <h2>{props.handle}</h2> */}
-      <h2>{handle}</h2>
+      <h2>Handle: {handle}</h2>
+      <h2>Rating: {rating}</h2>
+      <h2>Max Rating: {maxRating}</h2>
+      <h2>Rank: {rank}</h2>
+      <h2>Max Rank: {maxRank}</h2>
+
     </section>
   )
 }
