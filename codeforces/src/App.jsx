@@ -1,29 +1,63 @@
-import { useState } from "react";
+import { act, useReducer, useState } from "react";
 import SearchBar from "./SearchBar";
 import Profile from "./Profile";
 import { getUser } from "./api";
 
+const infoTemplate = {
+  user:null,
+  loading: false,
+  error: null
+};
+
 function App() {
   const [handle, setHandle] = useState("");
-  const [user, setUser] = useState(null);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState(null);
 
-  async function searchHandle(value) {
-    setLoading(true);
-    setError(null);
-
-    try {
-      const data = await getUser(value);
-      setUser(data);
-      setHandle(value);
-    } catch (err) {
-      setError(err.message);
-      setUser(null);
-    } finally {
-      setLoading(false);
+  const [state, dispatch] = useReducer(infoReducer, infoTemplate);
+  function infoReducer(state, action){
+    switch (action.type){
+      case "searching":
+        return {
+          ...state,
+          loading: true,
+          error: null
+        };
+      case "success":
+        return{
+          ...state,
+          loading: false,
+          user: action.payload,
+        };
+      case "error":
+        return{
+          ...state,
+          user: null,
+          loading: false,
+          error: action.payload
+        };
+      default:
+        return state;
     }
   }
+
+  async function searchHandle(value) {
+    console.log(value);
+    dispatch({type: "searching"});
+    try {
+      const data = await getUser(value);
+      dispatch ({
+        type: "success",
+        payload: data
+      });
+      setHandle(value);
+    }catch(err){
+      dispatch({
+        type: "error",
+        payload: err.message,
+      });
+    }
+  }
+
+  const {loading, error, user} = state;
 
   return (
     <main>
