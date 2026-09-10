@@ -9,10 +9,10 @@
 | **Omarelgaafry** | 15 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">10</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 20.0% |
 | **Coach-Anna** | 14 | <span style="color: #27ae60; font-weight: bold;">9</span> | <span style="color: #e74c3c; font-weight: bold;">5</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 64.3% |
 | **Ali25541** | 14 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">12</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 14.3% |
+| **malevolent_shrine1** | 13 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">5</span> | 15.4% |
 | **moo_hamza_123** | 10 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 30.0% |
 | **minoOo305** | 9 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 33.3% |
 | **ziad231z** | 8 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 0.0% |
-| **malevolent_shrine1** | 8 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">5</span> | 0.0% |
 | **Rokayaabdrabbo** | 7 | <span style="color: #27ae60; font-weight: bold;">7</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **SMsm-20** | 7 | <span style="color: #27ae60; font-weight: bold;">7</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **1bbukhxn** | 7 | <span style="color: #27ae60; font-weight: bold;">6</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 85.7% |
