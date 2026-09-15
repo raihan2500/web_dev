@@ -88,36 +88,50 @@ async function fetchHeadToHeadStats(targetUsername) {
 }
 
 function generateMarkdownReport(username, stats) {
-  // Take top 100 opponents to keep the file clean, or change to stats.length for all
-  const topStats = stats.slice(0, 100); 
+  const topStats = stats.slice(0, 100);
 
   let mdContent = `# ♟️ Head-to-Head Statistics for \`${username}\`\n\n`;
   mdContent += `> Automatically generated Chess.com profile analysis.\n\n`;
-  
-  // Set up the Markdown Table Header
+
   mdContent += `| Opponent | Total Games | Wins | Losses | Draws | Win % |\n`;
   mdContent += `|:---|:---:|:---:|:---:|:---:|:---:|\n`;
 
-  // Build the Data Rows with Inline HTML for Colors
   topStats.forEach(stat => {
-    const winRate = stat.totalGames > 0 ? ((stat.wins / stat.totalGames) * 100).toFixed(1) + '%' : '0%';
-    
-    // Inline CSS colors (VS Code Markdown Preview supports these)
-    const winsColored = `<span style="color: #27ae60; font-weight: bold;">${stat.wins}</span>`;
-    const lossesColored = `<span style="color: #e74c3c; font-weight: bold;">${stat.losses}</span>`;
-    const drawsColored = `<span style="color: #7f8c8d; font-weight: bold;">${stat.draws}</span>`;
-    
-    const row = `| **${stat.username}** | ${stat.totalGames} | ${winsColored} | ${lossesColored} | ${drawsColored} | ${winRate} |\n`;
-      
+    const winRate = stat.totalGames > 0
+      ? ((stat.wins / stat.totalGames) * 100).toFixed(1) + '%'
+      : '0%';
+
+    const winsColored =
+      `<span style="color: #27ae60; font-weight: bold;">${stat.wins}</span>`;
+
+    const lossesColored =
+      `<span style="color: #e74c3c; font-weight: bold;">${stat.losses}</span>`;
+
+    const drawsColored =
+      `<span style="color: #7f8c8d; font-weight: bold;">${stat.draws}</span>`;
+
+    const row =
+      `| **${stat.username}** | ${stat.totalGames} | ${winsColored} | ${lossesColored} | ${drawsColored} | ${winRate} |\n`;
+
     mdContent += row;
   });
 
-  const filename = `${username}.md`;
-  
-  // writeFileSync saves to the current directory and automatically overwrites if it exists
+  // Create folder if it doesn't exist
+  const outputDir = 'extracted_user';
+
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
+
+  // Save inside extracted_user/
+  const filename = `${outputDir}/${username}.md`;
+
   fs.writeFileSync(filename, mdContent, 'utf8');
+
   console.log(`\nSuccess! Data saved locally to ${filename}.`);
-  console.log(`Open this file in VS Code and hit "Ctrl+Shift+V" (or "Cmd+Shift+V" on Mac) to view the colorful Markdown preview!`);
+  console.log(
+    `Open this file in VS Code and hit "Ctrl+Shift+V" (or "Cmd+Shift+V" on Mac) to view the colorful Markdown preview!`
+  );
 }
 
 // --- INITIALIZE SCRIPT WITH PROMPT ---

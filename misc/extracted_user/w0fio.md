@@ -4,8 +4,8 @@
 
 | Opponent | Total Games | Wins | Losses | Draws | Win % |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **YasminaMo_iQ1** | 101 | <span style="color: #27ae60; font-weight: bold;">70</span> | <span style="color: #e74c3c; font-weight: bold;">28</span> | <span style="color: #7f8c8d; font-weight: bold;">3</span> | 69.3% |
-| **queen_iQ1** | 28 | <span style="color: #27ae60; font-weight: bold;">20</span> | <span style="color: #e74c3c; font-weight: bold;">7</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 71.4% |
+| **YasminaMo_iQ1** | 115 | <span style="color: #27ae60; font-weight: bold;">78</span> | <span style="color: #e74c3c; font-weight: bold;">34</span> | <span style="color: #7f8c8d; font-weight: bold;">3</span> | 67.8% |
+| **queen_iQ1** | 30 | <span style="color: #27ae60; font-weight: bold;">22</span> | <span style="color: #e74c3c; font-weight: bold;">7</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 73.3% |
 | **judyomer1** | 8 | <span style="color: #27ae60; font-weight: bold;">4</span> | <span style="color: #e74c3c; font-weight: bold;">4</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
 | **Varlinn** | 7 | <span style="color: #27ae60; font-weight: bold;">5</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 71.4% |
 | **rokia2010** | 5 | <span style="color: #27ae60; font-weight: bold;">5</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
@@ -23,6 +23,7 @@
 | **Salma-Mohamedd** | 2 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **CUSTUMS** | 2 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **msadratarahomi** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 50.0% |
+| **Rifai55555** | 2 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **ArvinSin** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **usvdgwhwhq** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **infinitejohn** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
@@ -103,4 +104,3 @@
 | **prophetjre** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **shashikantneb** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **ShivaThandavam** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
-| **magnuscarlsen-4500** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |

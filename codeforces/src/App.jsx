@@ -1,73 +1,36 @@
-import { act, useReducer, useState } from "react";
-import SearchBar from "./SearchBar";
-import Profile from "./Profile";
-import { getUser } from "./api";
-
-const infoTemplate = {
-  user:null,
-  loading: false,
-  error: null
-};
+import React from 'react'
+import { Routes, Route } from 'react-router'
+import Home from './pages/Home'
+import Contests from './pages/Contests'
+import Submission from './pages/Submission'
+import Profile from './pages/Profile'
+import NotFound from './pages/NotFound'
+import Navbar from './components/Navbar'
+import ProfileLayout from './pages/ProfileLayout'
 
 function App() {
-  const [handle, setHandle] = useState("");
-
-  const [state, dispatch] = useReducer(infoReducer, infoTemplate);
-  function infoReducer(state, action){
-    switch (action.type){
-      case "searching":
-        return {
-          ...state,
-          loading: true,
-          error: null
-        };
-      case "success":
-        return{
-          ...state,
-          loading: false,
-          user: action.payload,
-        };
-      case "error":
-        return{
-          ...state,
-          user: null,
-          loading: false,
-          error: action.payload
-        };
-      default:
-        return state;
-    }
-  }
-
-  async function searchHandle(value) {
-    console.log(value);
-    dispatch({type: "searching"});
-    try {
-      const data = await getUser(value);
-      dispatch ({
-        type: "success",
-        payload: data
-      });
-      setHandle(value);
-    }catch(err){
-      dispatch({
-        type: "error",
-        payload: err.message,
-      });
-    }
-  }
-
-  const {loading, error, user} = state;
-
   return (
-    <main>
-      <SearchBar searchHandle={searchHandle} />
+    <>
+      <Navbar />
+      <Routes>
+        <Route path = "/" element= { <Home/> } />
+        
+        <Route 
+          path='/profile/:handle' element = { <ProfileLayout/> }
+          >
+          <Route 
+            index element = {Profile}
+          />
+          <Route path='contests' element = {<Contests/>} />
+          <Route path='submissions' element = { <Submission/> } />
 
-      {loading && <p>Searching...</p>}
-      {error && <p>{error}</p>}
-      {!loading && !error && user && <Profile user={user} />}
-    </main>
-  );
+        </Route>
+        
+        <Route path='*' element = { <NotFound/> } />
+        
+      </Routes>
+    </>
+  )
 }
 
-export default App;
+export default App

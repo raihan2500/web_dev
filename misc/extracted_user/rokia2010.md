@@ -4,30 +4,31 @@
 
 | Opponent | Total Games | Wins | Losses | Draws | Win % |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **YoussefNegm2** | 61 | <span style="color: #27ae60; font-weight: bold;">10</span> | <span style="color: #e74c3c; font-weight: bold;">46</span> | <span style="color: #7f8c8d; font-weight: bold;">5</span> | 16.4% |
-| **NDAD3-11** | 35 | <span style="color: #27ae60; font-weight: bold;">13</span> | <span style="color: #e74c3c; font-weight: bold;">11</span> | <span style="color: #7f8c8d; font-weight: bold;">11</span> | 37.1% |
+| **YoussefNegm2** | 62 | <span style="color: #27ae60; font-weight: bold;">10</span> | <span style="color: #e74c3c; font-weight: bold;">46</span> | <span style="color: #7f8c8d; font-weight: bold;">6</span> | 16.1% |
+| **NDAD3-11** | 37 | <span style="color: #27ae60; font-weight: bold;">15</span> | <span style="color: #e74c3c; font-weight: bold;">11</span> | <span style="color: #7f8c8d; font-weight: bold;">11</span> | 40.5% |
 | **MedoIbrahimNegm** | 34 | <span style="color: #27ae60; font-weight: bold;">30</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 88.2% |
 | **judyomer1** | 34 | <span style="color: #27ae60; font-weight: bold;">5</span> | <span style="color: #e74c3c; font-weight: bold;">14</span> | <span style="color: #7f8c8d; font-weight: bold;">15</span> | 14.7% |
 | **M0hamed-Mahmou00d** | 32 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">31</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 0.0% |
+| **Ibrahimnegm1980** | 26 | <span style="color: #27ae60; font-weight: bold;">10</span> | <span style="color: #e74c3c; font-weight: bold;">13</span> | <span style="color: #7f8c8d; font-weight: bold;">3</span> | 38.5% |
 | **AhmedNegm2030** | 25 | <span style="color: #27ae60; font-weight: bold;">6</span> | <span style="color: #e74c3c; font-weight: bold;">15</span> | <span style="color: #7f8c8d; font-weight: bold;">4</span> | 24.0% |
-| **Ibrahimnegm1980** | 24 | <span style="color: #27ae60; font-weight: bold;">8</span> | <span style="color: #e74c3c; font-weight: bold;">13</span> | <span style="color: #7f8c8d; font-weight: bold;">3</span> | 33.3% |
-| **Mariamibrahimn** | 22 | <span style="color: #27ae60; font-weight: bold;">5</span> | <span style="color: #e74c3c; font-weight: bold;">10</span> | <span style="color: #7f8c8d; font-weight: bold;">7</span> | 22.7% |
-| **yaseenII** | 21 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">17</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 9.5% |
+| **Mariamibrahimn** | 24 | <span style="color: #27ae60; font-weight: bold;">6</span> | <span style="color: #e74c3c; font-weight: bold;">11</span> | <span style="color: #7f8c8d; font-weight: bold;">7</span> | 25.0% |
+| **yaseenII** | 22 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">18</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 9.1% |
+| **abdelfattahhamdy** | 21 | <span style="color: #27ae60; font-weight: bold;">14</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 66.7% |
+| **moo_hamza_123** | 20 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">14</span> | <span style="color: #7f8c8d; font-weight: bold;">5</span> | 5.0% |
 | **abdallah_fathi_7090** | 20 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">17</span> | <span style="color: #7f8c8d; font-weight: bold;">3</span> | 0.0% |
 | **Negm44** | 19 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">13</span> | <span style="color: #7f8c8d; font-weight: bold;">4</span> | 10.5% |
-| **abdelfattahhamdy** | 19 | <span style="color: #27ae60; font-weight: bold;">12</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 63.2% |
 | **MedoFouad** | 18 | <span style="color: #27ae60; font-weight: bold;">9</span> | <span style="color: #e74c3c; font-weight: bold;">5</span> | <span style="color: #7f8c8d; font-weight: bold;">4</span> | 50.0% |
-| **moo_hamza_123** | 18 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">12</span> | <span style="color: #7f8c8d; font-weight: bold;">5</span> | 5.6% |
 | **Islamgemy** | 17 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">14</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 11.8% |
 | **Mmohmed126** | 15 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">11</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 13.3% |
+| **333_Asmaa_mostafa** | 11 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">11</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **Hassan_Elkazaz** | 10 | <span style="color: #27ae60; font-weight: bold;">6</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 60.0% |
 | **mannyadav2x** | 10 | <span style="color: #27ae60; font-weight: bold;">7</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 70.0% |
 | **Muhammad-Hany** | 8 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">7</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 12.5% |
-| **333_Asmaa_mostafa** | 8 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">8</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **TheFirstMasterOfSuspense** | 8 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">7</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 0.0% |
 | **Romisaaelrefaay** | 7 | <span style="color: #27ae60; font-weight: bold;">5</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 71.4% |
 | **Mahmoudezz149** | 7 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">3</span> | 14.3% |
 | **aamr1i** | 7 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">4</span> | 0.0% |
+| **malevolent_shrine1** | 7 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 14.3% |
 | **Yasmeen2192** | 6 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **RedaGaballah** | 6 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">4</span> | 0.0% |
 | **D33BOO** | 6 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 33.3% |
@@ -49,6 +50,7 @@
 | **Abdosaid141** | 3 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **AHMEED-99** | 3 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 33.3% |
 | **meraj032** | 3 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 33.3% |
+| **Kamal_Salah** | 3 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 33.3% |
 | **Coach-Tania** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
 | **AnonymousMile26** | 2 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **SANTIKA_123** | 2 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
@@ -76,10 +78,10 @@
 | **imr0tvy** | 2 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **ELSHOSH_99** | 2 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **Ahmedelshakhs** | 2 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
-| **malevolent_shrine1** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
 | **se7s70** | 2 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
-| **Kamal_Salah** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
 | **Hotel188** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 50.0% |
+| **amorfati5657** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
+| **MA-ELGHOUL** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
 | **blanobson** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **rohit99eo** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **om-ar650** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
@@ -102,5 +104,3 @@
 | **sunilgargrsnr** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **killer5788** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **Lakshyaveena** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
-| **blameharsh** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
-| **gokul28012009** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |

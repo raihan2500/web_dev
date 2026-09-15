@@ -4,12 +4,13 @@
 
 | Opponent | Total Games | Wins | Losses | Draws | Win % |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **333_Asmaa_mostafa** | 11 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">4</span> | <span style="color: #7f8c8d; font-weight: bold;">4</span> | 27.3% |
-| **sama19-M** | 8 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">5</span> | 37.5% |
-| **kseniya_1984** | 5 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 60.0% |
+| **sama19-M** | 13 | <span style="color: #27ae60; font-weight: bold;">6</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">5</span> | 46.2% |
+| **333_Asmaa_mostafa** | 12 | <span style="color: #27ae60; font-weight: bold;">4</span> | <span style="color: #e74c3c; font-weight: bold;">4</span> | <span style="color: #7f8c8d; font-weight: bold;">4</span> | 33.3% |
+| **nada4111** | 11 | <span style="color: #27ae60; font-weight: bold;">6</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 54.5% |
+| **rokia2010** | 7 | <span style="color: #27ae60; font-weight: bold;">6</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 85.7% |
+| **kseniya_1984** | 6 | <span style="color: #27ae60; font-weight: bold;">4</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 66.7% |
 | **techgerm** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
 | **jmmyop** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 50.0% |
-| **rokia2010** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
 | **EL_TOROGI** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **aleksanderkonopka** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **HiM0nkz** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
@@ -103,4 +104,3 @@
 | **samuelverbard** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **warriormannu** | 1 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **sskzzzzvn** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
-| **Nakometik** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |

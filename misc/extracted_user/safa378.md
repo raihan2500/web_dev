@@ -10,6 +10,7 @@
 | **zdm7_0** | 13 | <span style="color: #27ae60; font-weight: bold;">7</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 53.8% |
 | **dra_cuula** | 10 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">7</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 30.0% |
 | **bemed-promax** | 9 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">4</span> | 22.2% |
+| **yassine47srx** | 9 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">9</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **exe_ahmed** | 8 | <span style="color: #27ae60; font-weight: bold;">5</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 62.5% |
 | **vicious1111** | 8 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">5</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 25.0% |
 | **4uya** | 7 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">6</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 0.0% |
@@ -17,7 +18,6 @@
 | **LOUSAIF** | 7 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">7</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **HuntBunt5** | 7 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">4</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 42.9% |
 | **Do7a-Chan** | 7 | <span style="color: #27ae60; font-weight: bold;">5</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 71.4% |
-| **yassine47srx** | 7 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">7</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **virtueezy** | 6 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">5</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 16.7% |
 | **IDK-n3** | 6 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">4</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 33.3% |
 | **Schattengv** | 6 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 33.3% |

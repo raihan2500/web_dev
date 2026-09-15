@@ -5,11 +5,12 @@
 | Opponent | Total Games | Wins | Losses | Draws | Win % |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | **wizard_king25** | 46 | <span style="color: #27ae60; font-weight: bold;">25</span> | <span style="color: #e74c3c; font-weight: bold;">14</span> | <span style="color: #7f8c8d; font-weight: bold;">7</span> | 54.3% |
+| **abdallah_fathi_7090** | 24 | <span style="color: #27ae60; font-weight: bold;">10</span> | <span style="color: #e74c3c; font-weight: bold;">12</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 41.7% |
 | **sydm03307maicom** | 19 | <span style="color: #27ae60; font-weight: bold;">13</span> | <span style="color: #e74c3c; font-weight: bold;">4</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 68.4% |
 | **kareemelghool** | 18 | <span style="color: #27ae60; font-weight: bold;">7</span> | <span style="color: #e74c3c; font-weight: bold;">10</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 38.9% |
-| **abdallah_fathi_7090** | 17 | <span style="color: #27ae60; font-weight: bold;">5</span> | <span style="color: #e74c3c; font-weight: bold;">10</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 29.4% |
 | **sayednaser2003** | 16 | <span style="color: #27ae60; font-weight: bold;">12</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">2</span> | 75.0% |
 | **moo_hamza_123** | 16 | <span style="color: #27ae60; font-weight: bold;">10</span> | <span style="color: #e74c3c; font-weight: bold;">5</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 62.5% |
+| **Islamgemy** | 9 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">5</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 33.3% |
 | **1Elmogy1** | 5 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">3</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 40.0% |
 | **boutajin** | 5 | <span style="color: #27ae60; font-weight: bold;">3</span> | <span style="color: #e74c3c; font-weight: bold;">2</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 60.0% |
 | **clydewtf** | 4 | <span style="color: #27ae60; font-weight: bold;">4</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
@@ -52,7 +53,6 @@
 | **islam74** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
 | **geronim0_0** | 2 | <span style="color: #27ae60; font-weight: bold;">2</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 100.0% |
 | **MAJIDWAZIR18** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 50.0% |
-| **Islamgemy** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 50.0% |
 | **Moh7562** | 2 | <span style="color: #27ae60; font-weight: bold;">1</span> | <span style="color: #e74c3c; font-weight: bold;">0</span> | <span style="color: #7f8c8d; font-weight: bold;">1</span> | 50.0% |
 | **Alexis6603** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
 | **tarungowda137779** | 1 | <span style="color: #27ae60; font-weight: bold;">0</span> | <span style="color: #e74c3c; font-weight: bold;">1</span> | <span style="color: #7f8c8d; font-weight: bold;">0</span> | 0.0% |
